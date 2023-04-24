@@ -2,7 +2,7 @@
 
 // copy parameters to tb.v, test.py
 // as files may be used individually
-module gbsha_ttfir_top #(parameter N_TAPS = 4,
+module gbsha_tt03_mac_top #(parameter N_TAPS = 4,
                              BW_in = 6,
                              BW_product = 11,
                              BW_sum = 13,
